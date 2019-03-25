@@ -38,6 +38,12 @@ font-size: 14px;
 line-height: 24px;
 }
 
+/*italics within paragraph*/
+.italic{
+  font-family: 'Taviraj', serif;
+  font-weight: 400i;
+}
+
 
 
 
