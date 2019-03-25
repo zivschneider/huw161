@@ -10,15 +10,18 @@ h1{
     font-weight: 800;
     background-color: #450003;
     color: #f2f2f2;
+    text-align: center;
   }
 
 h2{
-font-family: 'Montserrat', sans-serif;
-font-weight: 600;
+font-family: 'Muli', sans-serif;
+font-weight: 400;
 font-size: 14px;
 line-height: 24px;
-text-transform: uppercase;
+background-color: #222222;
+color: #f2f2f2;
 }
+
 /*this title is for information about the font choice*/
 h3{
 font-size: 13px;
@@ -26,13 +29,14 @@ color:#222222;
 line-height: 10px;
 margin-left: -20%;
 }
+
 /*paragraph text*/
 p{
-font-family: "Montserrat";
-font-weight: 300;
+font-family: 'Taviraj', serif;
+font-weight: 400;
 font-size: 14px;
 line-height: 24px;
-  }
+}
 
 
 
